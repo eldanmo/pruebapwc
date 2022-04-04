@@ -5,3 +5,16 @@
     background-color: #d04a02;
     color: aliceblue;
 }
+
+.redes{
+    background-color: #2d2d2d;
+    color: aliceblue;
+    height: 70px;
+    padding: 10px;
+    text-align: center;
+    vertical-align: baseline;
+}
+
+.img-redes{
+    float: inline-end;
+}
